@@ -11,7 +11,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=celil-vural&layout=compact&hide=css,html)
 
-![celil-vural's github stats](https://github-readme-stats.vercel.app/api?username=celil-vural&count_private=true&show_icons=true&theme=onedark)
+![celil-vural's github stats](https://github-readme-stats.vercel.app/api?username=celil-vural&count_private=true&show_icons=true&theme=tokyonight)
 
 ## 💼 Skills
 
