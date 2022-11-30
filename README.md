@@ -9,7 +9,7 @@
 ## &#x1f4c8; GitHub Stats
 <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=celil-vural&layout=compact&hide=css,html)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=celil-vural&layout=compact)
 
 ![celil-vural's github stats](https://github-readme-stats.vercel.app/api?username=celil-vural&show_icons=true&theme=tokyonight)
 
@@ -26,5 +26,3 @@
 ![](https://img.shields.io/badge/Firebase-FFCB2B?style=flat&logo=firebase&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/MongoDB-589636?style=flat&logo=mongodb&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/Postman-EF5B25?style=flat&logo=postman&logoColor=white&style=flat)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=celil-vural&layout=compact)](https://github.com/celil-vural/github-readme-stats)
