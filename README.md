@@ -18,3 +18,11 @@
 ## 💼 Skills
 
 ![](https://img.shields.io/badge/code-javascript-green)
+![](https://img.shields.io/badge/code-java-green)
+![](https://img.shields.io/badge/framework-nodeJS-green)
+![](https://img.shields.io/badge/framework-reactJS-green)
+![](https://img.shields.io/badge/framework-react%20native-green)
+![](https://img.shields.io/badge/framework-spring-green)
+![](https://img.shields.io/badge/tools-firebase-green)
+![](https://img.shields.io/badge/tools-mongoDB-green)
+![](https://img.shields.io/badge/tools-postman-green)
