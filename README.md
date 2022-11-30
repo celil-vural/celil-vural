@@ -27,4 +27,4 @@
 ![](https://img.shields.io/badge/MongoDB-589636?style=flat&logo=mongodb&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/Postman-EF5B25?style=flat&logo=postman&logoColor=white&style=flat)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=celil-vural&repo=github-readme-stats)](https://github.com/celil-vural/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=celil-vural&layout=compact)](https://github.com/celil-vural/github-readme-stats)
