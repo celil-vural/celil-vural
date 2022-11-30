@@ -1,7 +1,7 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on **Student @ Pamukkale Uni**
+- 🔭 I’m currently working in [Paü Genç Yazılımcılar](https://github.com/GencYazilimcilar)
 - 🌱 I’m currently learning `ReactJs`, `NodeJs`, `.js`
 - 💬 Ask me about **Web Applications**
 - 📫 How to reach me: **[Instagram](https://instagram.com/celilvural__)**
