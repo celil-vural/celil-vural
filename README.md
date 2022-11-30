@@ -17,12 +17,14 @@
 
 ## 💼 Skills
 
-![](https://img.shields.io/badge/code-javascript-green?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/code-java-green?style=flat&logo=Java&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/framework-nodeJS-green?style=flat&logo=Node&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/framework-reactJS-61DAFB?style=flat&logo=react&logoColor=white&style=flat)
-![](https://img.shields.io/badge/framework-react%20native-green)
-![](https://img.shields.io/badge/framework-spring-green)
-![](https://img.shields.io/badge/tools-firebase-green)
-![](https://img.shields.io/badge/tools-mongoDB-green)
-![](https://img.shields.io/badge/tools-postman-green)
+![](https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white)
+![](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
+![](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)
+![](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white)
+![](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
+![](https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white)
+![](https://img.shields.io/badge/React%20JS-61DAFB?style=flat&logo=react&logoColor=white&style=flat)
+![](https://img.shields.io/badge/React%20Native-61DAFB?style=flat&logo=react&logoColor=white&style=flat)
+![](https://img.shields.io/badge/Firebase-FFCB2B?style=flat&logo=firebase&logoColor=white&style=flat)
+![](https://img.shields.io/badge/MongoDB-589636?style=flat&logo=mongodb&logoColor=white&style=flat)
+![](https://img.shields.io/badge/Postman-EF5B25?style=flat&logo=postman&logoColor=white&style=flat)
