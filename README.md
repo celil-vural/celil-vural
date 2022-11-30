@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on **Student @ Pamukkale Uni**
 - 🌱 I’m currently learning `.dart`, `.ts`, `.js`
 - 💬 Ask me about **Mobile Development Flutter**
-- 📫 How to reach me: **[Twitter](https://twitter.com/mustafaakill), [Instagram](https://instagram.com/mustafaakilll)**
+- 📫 How to reach me: **[Instagram](https://instagram.com/celilvural__)**
 - 😄 Pronouns: "He/Him"
 - ⚡ Fun fact: :penguin: **Linux** I use Arch btw.
 
@@ -17,7 +17,7 @@
 
 ## 💼 Skills
 
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=4AB197)
+![]([https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=4AB197](https://img.shields.io/badge/code-javascript-green))
 
 ![](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=Dart&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
