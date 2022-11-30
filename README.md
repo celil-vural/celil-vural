@@ -2,12 +2,10 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on **Student @ Pamukkale Uni**
-- 🌱 I’m currently learning `.dart`, `.ts`, `.js`
-- 💬 Ask me about **Mobile Development Flutter**
+- 🌱 I’m currently learning `ReactJs`, `NodeJs`, `.js`
+- 💬 Ask me about **Web Applications**
 - 📫 How to reach me: **[Instagram](https://instagram.com/celilvural__)**
 - 😄 Pronouns: "He/Him"
-- ⚡ Fun fact: :penguin: **Linux** I use Arch btw.
-
 ## &#x1f4c8; GitHub Stats
 <br/>
 
