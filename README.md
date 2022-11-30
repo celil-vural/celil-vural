@@ -1,16 +1,31 @@
+
 ### Hi there 👋
 
-<!--
-**celil-vural/celil-vural** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on **Student @ Pamukkale Uni**
+- 🌱 I’m currently learning `.dart`, `.ts`, `.js`
+- 💬 Ask me about **Mobile Development Flutter**
+- 📫 How to reach me: **[Twitter](https://twitter.com/mustafaakill), [Instagram](https://instagram.com/mustafaakilll)**
+- 😄 Pronouns: "He/Him"
+- ⚡ Fun fact: :penguin: **Linux** I use Arch btw.
 
-Here are some ideas to get you started:
+## &#x1f4c8; GitHub Stats
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=celil-vurak&layout=compact&hide=css,html)
+
+![celil-vural's github stats](https://github-readme-stats.vercel.app/api?username=celil-vural&count_private=true&show_icons=true&theme=onedark)
+
+## 💼 Skills
+
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=4AB197)
+
+![](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=Dart&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=4AB197)
+
+![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-MariaDB-informational?style=flat&logo=MariaDB&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=4AB197)
