@@ -20,7 +20,7 @@
 ![](https://img.shields.io/badge/code-javascript-green?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/code-java-green?style=flat&logo=Java&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/framework-nodeJS-green?style=flat&logo=Node&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/framework-reactJS-green?style=flat&logo=react&logoColor=white&style=flat)
+![](https://img.shields.io/badge/framework-reactJS-61DAFB?style=flat&logo=react&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/framework-react%20native-green)
 ![](https://img.shields.io/badge/framework-spring-green)
 ![](https://img.shields.io/badge/tools-firebase-green)
