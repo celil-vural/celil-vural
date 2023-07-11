@@ -17,9 +17,6 @@
 ![](https://img.shields.io/badge/C%23-%237210a0?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![](https://img.shields.io/badge/Flutter-%2302569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![](https://img.shields.io/badge/Javascript-ffb13b?style=for-the-badge&logo=javascript&logoColor=white)
-![](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white)
-![](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
-![](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white)
 ![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
 ![](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white)
 ![](https://img.shields.io/badge/React%20JS-61DAFB?style=for-the-badge&logo=react&logoColor=white)
@@ -27,3 +24,6 @@
 ![](https://img.shields.io/badge/Firebase-FFCB2B?style=for-the-badge&logo=firebase&logoColor=white)
 ![](https://img.shields.io/badge/MongoDB-589636?style=for-the-badge&logo=mongodb&logoColor=white)
 ![](https://img.shields.io/badge/Postman-EF5B25?style=for-the-badge&logo=postman&logoColor=white)
+<!-- (![](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white))
+![](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
+![](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white)-->
