@@ -8,7 +8,7 @@
 ## &#x1f4c8; GitHub Stats
 <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=celil-vural&layout=compact&hide=html,css,swift)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=celil-vural&layout=compact&hide=swift)
 
 ![celil-vural's github stats](https://github-readme-stats.vercel.app/api?username=celil-vural&show_icons=true&theme=tokyonight)
 
