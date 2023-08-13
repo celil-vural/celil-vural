@@ -4,7 +4,7 @@
 - 🔭 I’m currently working in [Paü Genç Yazılımcılar](https://github.com/GencYazilimcilar)
 - 🌱 I know right now `.Net`,`Flutter`,`ReactJs`, `ExpressJs`,`ReactNative`
 - 💬 Ask me about **Web Applications**
-- 📫 How to reach me: **[Instagram](https://instagram.com/celilvural__)**
+- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/celil-v-92945325b)**
 ## &#x1f4c8; GitHub Stats
 <br/>
 
