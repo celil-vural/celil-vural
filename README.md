@@ -1,7 +1,7 @@
 
 ### Hi there 👋
 
-- 🌱 I know right now `SpringBoot`,`.Net`,`Flutter`,`ReactJs`,`ReactNative`
+- 🌱 I know right now `.Net`,`SpringBoot`,`Flutter`,`ReactJs`,`ReactNative`
 - 💬 Ask me about **Web Applications**
 - 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/celil-v-92945325b)**
 ## &#x1f4c8; GitHub Stats
