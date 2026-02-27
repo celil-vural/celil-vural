@@ -2,7 +2,7 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=Hi%20There👋&width=800&height=150)](https://github.com/Akshay090/svg-banners)
 
 
-- 🌱 Currently working on Backend development with `.Net`
+- 🌱 Currently working on Backend development with `.go`
 - 💬 Ask me about **Web Applications**
 - 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/celil-v-92945325b)**
 
