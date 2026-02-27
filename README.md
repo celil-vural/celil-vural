@@ -13,7 +13,7 @@
 
 # 💼 Skills
 
-<img src="https://img.shields.io/badge/BACKEND-white.svg?style=for-the-badge" alt="badge" /><img src="https://img.shields.io/badge/.net-512bd4.svg?style=for-the-badge&logo=.NET&logoColor=ffffff&labelColor=4f4f4f" alt="badge" />
+<img src="https://img.shields.io/badge/BACKEND-white.svg?style=for-the-badge" alt="badge" /><img src="https://img.shields.io/badge/Go-00ADD8.svg?style=for-the-badge&logo=go&logoColor=white&labelColor=4f4f4f" alt="badge" />
 <!--
 <img src="https://img.shields.io/badge/FRONTEND-white.svg?style=for-the-badge" alt="badge" /><img src="https://img.shields.io/badge/javascript-f7df1e.svg?style=for-the-badge&logo=JavaScript&logoColor=ffffff&labelColor=4f4f4f" alt="badge" /><img src="https://img.shields.io/badge/react-61dafb.svg?style=for-the-badge&logo=React&logoColor=ffffff&labelColor=4f4f4f" alt="badge" /> -->
 
